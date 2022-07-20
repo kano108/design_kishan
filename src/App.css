@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+.header h1{
+  padding-top: 05px;
+  float: left;
+  padding-left: 60px;
+  padding-right: 100px;
+}
+.hearder_center label{
+  float: left;
+  padding: 20px;   
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+.header_right {
+  float: right;
+  padding: 40px;
+  padding-right: 50px;
+}
+
+
+.mainContent{
+  padding-top: 20px;
+   display: flex; 
+   float: left; 
+   /* flex-direction: row; */
+   padding-left: 50px;
+   
+}
+.mainContent label{
+  padding: 20px;
+}
+.detailLable{
+  padding-right: 50px;
+} 
+.font2{
+  padding-top: 15px;
+
+}
+.Images{
+  width: 750px;
+  padding-left: 20px;
+}
+.heart{
+  padding-bottom: 650px;
+}
+/* .font3 h3{
+  padding-left: 100px;
+ } */
+ .jonathan{
+  width: 200px;
+  height: 92px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 90px;
+  line-height: 96%;
+  text-transform: uppercase;
+  letter-spacing: -0.04em;
+  flex: none;
+ }
+ .lurex{
+  width: 254;
+  height: 17px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight:400;
+  font-size: 20px;
+  line-height: 120%;
+ }
