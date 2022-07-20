@@ -46,7 +46,7 @@ const MainContent = () => {
         <label className="lurex">Lurex Linen Viscose Jacket in Conchiglia</label>
         </div>
         <h2>$225</h2>
-        <h4>COLOR CONCHIGLIA</h4>
+        <label className="colorConchiglia">COLOR CONCHIGLIA</label>
       </div>
     </div>
   );
