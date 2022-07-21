@@ -1,6 +1,7 @@
 import Search from "./images/Search.jpg"
 import cart from "./images/Bag.jpg"
 import Account from "./images/Account.jpg"
+import nav from "./images/Nav.jpg"
 
 import React from "react";
 // import SearchIcon from '@material-ui/icons/Search';
@@ -29,6 +30,7 @@ function Header() {
         <img src={Search} alt="no image" className="header_search"/>
         <img src={cart} alt="no image"className="header_cart"/>
         <img src={Account} alt="no image" className="header_account"/>
+        <img src={nav} className="header_nav"/>
         {/* <SearchIcon/>
         <AddShoppingCartIcon/>
         <PermContactCalendarIcon/> */}
