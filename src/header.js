@@ -26,9 +26,9 @@ function Header() {
       </div>
 
       <div className="header_right">
-        <img src={Search} alt="no image"/>
-        <img src={cart} alt="no image"/>
-        <img src={Account} alt="no image"/>
+        <img src={Search} alt="no image" className="header_search"/>
+        <img src={cart} alt="no image"className="header_cart"/>
+        <img src={Account} alt="no image" className="header_account"/>
         {/* <SearchIcon/>
         <AddShoppingCartIcon/>
         <PermContactCalendarIcon/> */}
