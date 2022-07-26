@@ -69,7 +69,16 @@ const MainContent = () => {
         <div>
           <img src={image413} />
         </div>
-        <div>
+        {/* <div className="allspan">
+          <span></span>
+            <label className="span"></label>
+            <label className="span"></label>
+            <label className="span"></label>
+            <label className="span"></label>
+            <label className="span"></label>
+
+        </div> */}
+        {/* <div>
           <label className="JonathanSimkhai">Jonathan Simkhai</label>
           <label style={{width:'59px'}} className="JonathanSimkhai">Blazers</label>
           <label className="JonathanSimkhai">Viscose</label>
@@ -81,7 +90,8 @@ const MainContent = () => {
         <div>
           <label className="font10">The Forte Lurex Linen Viscose Jacket in Mother of Pearl features lunar lavishness by night and by day: a blazer in a linen blend shot with lurex for a shimmering surface that shines like a star in the sky. </label>
         </div>
-      </div>
+      */}
+      </div> 
       <div className="font3">
         <label className="jonathan">JONATHAN SIMKHAI</label>
         <div>
@@ -112,6 +122,7 @@ const MainContent = () => {
           <p className="paregraph1">Get 4 interest-free payments of $196.25 with Klarna LEARN MORE</p>
            <p className="paragraph2">Speak to a Personal Stylist CHAT NOW</p> 
       </div>
+      
     </div>
   );
 };
